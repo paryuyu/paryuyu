@@ -41,9 +41,9 @@ console.log('It's time to shine ✨')
 | :--: | :--: | :--: | :-- | :-- | :-- |
 | 1 | 모바일 앱 | DayGram |  `React Native` `Expo` | `Mongoose` `Express` | 간단한 다이어리 어플 |
 | 2 | 모바일 앱 | With |  `React Native` `Expo` | `Mongoose` `Express` | 장소 리뷰 어플  |
-| 3 | 웹 사이트 | 에어비앤비 클론 | `React` `Nextjs` | `Nextjs` `Mongoose` | 에어비앤비 숙소 예약 사이트를 클론 코딩 |
-| 3 | 웹 사이트 | 에어비앤비 클론 | `React` `Nextjs` | `Nextjs` `Mongoose` | 에어비앤비 숙소 예약 사이트를 클론 코딩 |
-| 3 | 웹 사이트 | 에어비앤비 클론 | `React` `Nextjs` | `Nextjs` `Mongoose` | 에어비앤비 숙소 예약 사이트를 클론 코딩 |
+| 3 | 웹 사이트 | 에어비앤비 클론 | `React` `Nextjs` `Mui` | `Nextjs` `Mongoose` | 에어비앤비 숙소 예약 사이트를 클론 코딩 |
+| 3 | 웹 사이트 | Chat Chat | `React` `Nextjs` | `Nextjs` `Mongoose` | Web Socket과 Ajax를 활용한 채팅 사이트 |
+| 3 | 웹 사이트 | SNS | `React` `Nextjs` | `Nextjs` `Mongoose` | SNS 만들어보기 |
 
 <!-- 프로젝트 정리 완성하면 여기에 내용 같이 넣어주기-->
 <!-- 프로젝트 테이블 정리해주기-->
