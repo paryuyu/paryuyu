@@ -44,7 +44,7 @@ console.log('It's time to shine ✨')
 ### 📂 포트폴리오 및 자기소개서 보러가기
 <!-- 포폴 사이트 만들면 여기에 같이 넣어주기--> 
  - ↗️ [포트폴리오 보러가기](https://www.notion.so/bdaa15c7c18f44afa3d474bf93e04352)
- - ↗️ [자기소개서 보러가기](https://www.notion.so/f81297b8404a4bb0a044f8c4a42db82f) <br>
+ - ↗️ [자기소개서 보러가기]([https://www.notion.so/f81297b8404a4bb0a044f8c4a42db82f](https://far-boater-fe7.notion.site/f81297b8404a4bb0a044f8c4a42db82f)) <br>
 
 <br>
 <br>
