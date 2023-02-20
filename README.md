@@ -1,9 +1,6 @@
 
 <div align=center>
   
- <img src='https://user-images.githubusercontent.com/107971288/206865204-34f3921b-e594-406b-8e3d-731ef850ac48.jpeg' width=100px /> 
-  <br>
-  
   # Welcome
 
   </div>
