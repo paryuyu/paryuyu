@@ -42,7 +42,7 @@ console.log('It's time to shine ✨')
 <!-- 포폴 사이트 만들면 여기에 같이 넣어주기--> 
 ↗️ [이력서로 바로가기](https://developer-yu.notion.site/792be1ce95aa4f4a821a3013f0318492)
 
-↗️ [포트폴리오로 바로가기](https://developer-yu.notion.site/bdaa15c7c18f44afa3d474bf93e04352)
+↗️ [포트폴리오로 바로가기](https://yuyu-resume-developer.vercel.app/)
 
 ↗️ [자기소개서로 바로가기](https://developer-yu.notion.site/a1c8dae5a06847eeb299504acd0b7963)
 
