@@ -1,6 +1,6 @@
-🚀 포트폴리오 페이지
+🚀 아카이빙 페이지 🚀
 <br/>
-https://yu-dev.netlify.app/
+https://jerryu.site
 <br/>
 📧 이메일
 <br/>
